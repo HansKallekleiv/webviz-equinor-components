@@ -1,0 +1,6 @@
+include webviz_equinor_components/webviz_equinor_components.min.js
+include webviz_equinor_components/webviz_equinor_components.dev.js
+include webviz_equinor_components/webviz_equinor_components.css
+include webviz_equinor_components/metadata.json
+include webviz_equinor_components/package.json
+include README.md
